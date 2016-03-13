@@ -1,0 +1,70 @@
+/* Shared
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.button {
+  border-radius: 100px;
+}
+
+/* Sections
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+.block {
+  text-align: center;
+  /*background-color: grey;*/
+  /*margin-bottom: 10rem;*/
+}
+
+.catalog {
+    margin-top: 10rem;
+    /*align-content: center;*/
+}
+
+.social-list {
+    margin-top: 3rem;
+}
+
+.download {
+    margin: 2rem 0;
+}
+
+/* Larger than mobile */
+@media (min-width: 400px) {
+    button {
+        padding: 0 60px;
+    }
+    .catalog {
+        margin-top: 5rem;
+    }
+}
+
+/* Larger than phablet (also point when grid becomes active) */
+@media (min-width: 550px) {
+    button {
+        padding: 0 10px;
+    }
+    .catalog {
+        margin-top: 5rem;
+    }
+}
+
+/* Larger than tablet */
+@media (min-width: 750px) {
+    button {
+        padding: 0 30px;
+    }
+    .catalog {
+        margin-top: 5rem;
+    }
+}
+
+/* Larger than desktop */
+@media (min-width: 1000px) {
+    .catalog {
+        margin-top: 10rem;
+    }
+}
+
+/* Larger than Desktop HD */
+@media (min-width: 1200px) {
+    .catalog {
+        margin-top: 15rem;
+    }
+}
