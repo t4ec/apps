@@ -33,6 +33,12 @@ body {
     margin: 2rem 0;
 }
 
+a.button.download::before {
+    padding-right: 8px;
+    content: '';
+    font-size: 11px;
+}
+
 /* Larger than mobile
 @media (min-width: 400px) {
     .button.download {
