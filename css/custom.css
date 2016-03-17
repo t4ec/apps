@@ -15,7 +15,7 @@ body {
 
 .button.social {
     line-height: 25px;
-    height: 30px;
+    height: 28px;
     border-radius: 40px;
     padding: 0 0px;
 }
@@ -33,7 +33,7 @@ body {
     margin: 2rem 0;
 }
 
-/* Larger than mobile */
+/* Larger than mobile
 @media (min-width: 400px) {
     .button.download {
         /*padding: 0 60px;*/
