@@ -1,20 +1,28 @@
 /* Shared
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.button {
-  border-radius: 100px;
+
+body {
+    background-image: url("/Users/machine/Devel/github/apps/images/background.jpeg");
 }
 
 /* Sections
 –––––––––––––––––––––––––––––––––––––––––––––––––– */
-.block {
-  text-align: center;
-  /*background-color: grey;*/
-  /*margin-bottom: 10rem;*/
+
+.container {
+  background: #5e779e;
+  background: rgba(255, 255, 255, 0.8);
 }
 
-.catalog {
-    margin-top: 10rem;
-    /*align-content: center;*/
+.button.social {
+    line-height: 25px;
+    height: 30px;
+    border-radius: 40px;
+    padding: 0 0px;
+}
+
+.block {
+  text-align: center;
+  padding: 10px;
 }
 
 .social-list {
@@ -27,19 +35,38 @@
 
 /* Larger than mobile */
 @media (min-width: 400px) {
-    button {
-        padding: 0 60px;
+    .button.download {
+        /*padding: 0 60px;*/
     }
+
+    .description {
+        min-height: 2em;
+    }
+
     .catalog {
-        margin-top: 5rem;
+        margin-top: 3rem;
     }
 }
 
 /* Larger than phablet (also point when grid becomes active) */
 @media (min-width: 550px) {
-    button {
-        padding: 0 10px;
+
+    .button.social {
+        padding: 0 2px;
     }
+
+    .button.download {
+        padding: 0 15px;
+        height: 100%;
+        line-height: 20px;
+        white-space: normal;
+    }
+
+    .description {
+        min-height: 10em;
+    }
+
+
     .catalog {
         margin-top: 5rem;
     }
@@ -47,9 +74,33 @@
 
 /* Larger than tablet */
 @media (min-width: 750px) {
-    button {
-        padding: 0 30px;
+    .button.download {
+        line-height: 25px;
+        white-space: normal;
     }
+
+    .description {
+        min-height: 8em;
+    }
+
+    .catalog {
+        margin-top: 5rem;
+    }
+}
+
+/* Larger than tablet */
+@media (min-width: 873px) {
+    .button.download {
+        /*height: 100%;*/
+        line-height: 20px;
+        /*padding: 0 0px;*/
+        white-space: normal;
+    }
+
+    .description {
+        min-height: 8em;
+    }
+
     .catalog {
         margin-top: 5rem;
     }
@@ -57,14 +108,21 @@
 
 /* Larger than desktop */
 @media (min-width: 1000px) {
+    .button.download {
+        /*height: 100%;*/
+        line-height: 38px;
+        /*padding: 0 10px;*/
+        white-space: nowrap;
+    }
+
     .catalog {
-        margin-top: 10rem;
+        margin-top: 7rem;
     }
 }
 
 /* Larger than Desktop HD */
 @media (min-width: 1200px) {
     .catalog {
-        margin-top: 15rem;
+        margin-top: 7rem;
     }
 }
