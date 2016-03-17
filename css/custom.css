@@ -119,7 +119,7 @@ a.button.download::before {
     }
 }
 
-@media (min-width: 985px) {
+@media (min-width: 795px) {
     .button.download {
         line-height: 38px;
         white-space: normal;
