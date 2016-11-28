@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sinko Apps</title>
-    <link>https://apps.sinko.me/en/index.xml</link>
-    <description>Recent content on Sinko Apps</description>
+    <title>Apps-rsses on Sinko Apps</title>
+    <link>https://apps.sinko.me/en/apps/index.xml</link>
+    <description>Recent content in Apps-rsses on Sinko Apps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Dmytrii Sinko</copyright>
     <lastBuildDate>Sat, 26 Nov 2016 22:13:30 +0200</lastBuildDate>
-    <atom:link href="https://apps.sinko.me/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://apps.sinko.me/en/apps/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Solo - Time Tracking &amp; Invoicing</title>

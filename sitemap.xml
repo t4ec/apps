@@ -4,15 +4,21 @@
 	<sitemap>
 	   	<loc>https://apps.sinko.me/uk/sitemap.xml</loc>
 		
+	   	<lastmod>2016-11-26T22:13:30+02:00</lastmod>
+		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://apps.sinko.me/en/sitemap.xml</loc>
 		
+	   	<lastmod>2016-11-26T22:13:30+02:00</lastmod>
+		
 	</sitemap>
 	
 	<sitemap>
 	   	<loc>https://apps.sinko.me/ru/sitemap.xml</loc>
+		
+	   	<lastmod>2016-11-26T22:13:30+02:00</lastmod>
 		
 	</sitemap>
 	
