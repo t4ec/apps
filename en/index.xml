@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sinko Apps</title>
-    <link>http://localhost/en/index.xml</link>
+    <link>https://apps.sinko.me/en/index.xml</link>
     <description>Recent content on Sinko Apps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy;2016 Dmytrii Sinko</copyright>
-    <atom:link href="http://localhost/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://apps.sinko.me/en/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
