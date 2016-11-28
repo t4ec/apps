@@ -1,0 +1,30 @@
+/* your styles go here */
+.content-column-content p,
+.content-column-content li {
+   color: rgba(0, 0, 0, .8);
+}
+
+.dropdown-menu > li > a:hover,
+.dropdown-menu > li > a:focus {
+  color: #f381a6;
+  background-color: transparent;
+}
+
+.btn {
+  font-weight: 400;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  padding: 4px 12px;
+  font-size: 16px;
+  line-height: 1.55;
+  border-radius: 0;
+}
+
+.btn-primary {
+  font-weight: 400;
+  font-family: "Roboto", Helvetica, Arial, sans-serif;
+  padding: 4px 12px;
+  font-size: 16px;
+  line-height: 1.55;
+  border-radius: 2px;
+  border: 0;
+}
