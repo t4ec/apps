@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Sinko Apps</title>
-    <link>https://apps.sinko.me/en/index.xml</link>
-    <description>Recent content on Sinko Apps</description>
+    <title>Privacy-rsses on Sinko Apps</title>
+    <link>https://apps.sinko.me/ru/privacy/index.xml</link>
+    <description>Recent content in Privacy-rsses on Sinko Apps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>&amp;copy;2016 Dmytrii Sinko</copyright>
+    <copyright>&amp;copy;2016 Дмитрий Синько</copyright>
     <lastBuildDate>Mon, 28 Nov 2016 13:20:42 +0200</lastBuildDate>
-    <atom:link href="https://apps.sinko.me/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://apps.sinko.me/ru/privacy/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Privacy Policy</title>
-      <link>https://apps.sinko.me/en/privacy/</link>
+      <link>https://apps.sinko.me/ru/privacy/</link>
       <pubDate>Mon, 28 Nov 2016 13:20:42 +0200</pubDate>
       
-      <guid>https://apps.sinko.me/en/privacy/</guid>
+      <guid>https://apps.sinko.me/ru/privacy/</guid>
       <description>
 
 &lt;p&gt;In this privacy policy we describe what kind of data we may collect of you in connection with your use of our applications, websites and related services and how we may use such data. Below we call these collectively “Services”. By using our Services, you agree to the processing of your data in accordance with this privacy policy.
@@ -53,18 +53,6 @@ We may process your data outside the country where you live in (for example if y
 
 &lt;p&gt;&lt;strong&gt;Last updated: 27 November 2016&lt;/strong&gt;&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Solo - Time Tracking &amp; Invoicing</title>
-      <link>https://apps.sinko.me/en/apps/solo/</link>
-      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/en/apps/solo/</guid>
-      <description>&lt;p&gt;&lt;a href=&#34;https://apps.sinko.me&#34;&gt;
-    &lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_en.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
-&lt;/a&gt;
-&lt;/p&gt;</description>
     </item>
     
   </channel>
