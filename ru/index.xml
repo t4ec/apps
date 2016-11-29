@@ -26,7 +26,7 @@ We may amend this privacy policy from time to time by posting a new version onli
 &lt;p&gt;&lt;strong&gt;Personal data.&lt;/strong&gt; We do not collect personal data that identifies you.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Analytics data.&lt;/strong&gt; We use analytical services and other tools (such as Flurry and Google Analytics) on areas of our Services which enable us to collect your IP address or other identifier, usage data relating to our Services as well as information on your device properties. Based on this data we may create statistics, provide better services to our customers as well as analyze and further develop our Services. We treat this information as non-personal data.
-You can opt out of the Flurry Analytics tracking and personalized ads/recommendations from Flurry by clicking &lt;a href=&#34;http://www.flurry.com/user-opt-out.html&#34;&gt;here&lt;/a&gt; and you can disable Google Analytics with &lt;a href=&#34;https://tools.google.com/dlpage/gaoptout&#34;&gt;this add-on tool&lt;/a&gt;.&lt;/p&gt;
+You can opt out of the Flurry Analytics tracking and personalized ads/recommendations from Flurry by clicking &lt;a href=&#34;https://dev.flurry.com/secure/optOut.do&#34;&gt;here&lt;/a&gt; and you can disable Google Analytics with &lt;a href=&#34;https://tools.google.com/dlpage/gaoptout&#34;&gt;this add-on tool&lt;/a&gt;.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;Ad serving.&lt;/strong&gt; We and our partners may use ad serving technology to provide advertisements of interest to you within the Services (for example within the Android application). In this connection we and our partners may collect and use information about you, such as your Service session activity, device identifier, MAC address, IMEI, coarse geo-location information and IP address. Please note that our partners operate under their own privacy policies.
 For more information, see
@@ -62,7 +62,7 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/solo/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://apps.sinko.me&#34;&gt;
-    &lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+    &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;</description>
     </item>
@@ -74,13 +74,35 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/admin-code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/app/apple-store/id1118866470?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/admincode_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/admincode/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Актуальна версія Кодексу України Про Адміністративні Правопорушення (КУпАП) з повнотекстовим офлайн пошуком та автоматичним оновленням.&lt;/p&gt;
+
+&lt;p&gt;Миттєвий пошук дозволяє користуватися додатком прямо у залі засідання або будь де: тепер можна забути про паперові книжки.&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс, зручна навігація&lt;/li&gt;
+&lt;li&gt;Актуальна та повна версія кодексу&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет&lt;/li&gt;
+&lt;li&gt;Потужний повнотекстовий офлайн пошук по всьому кодексу&lt;/li&gt;
+&lt;li&gt;Автоматичне оновлення кодексу, завжди актуальний зміст&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Мати закони України у своєму пристрої це завжди зручно.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -90,13 +112,32 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/criminal-code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/apple-store/id1071670334?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Download on the AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Download on the AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/criminalcode_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/criminalcode/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Актуальна версія Кримінального Кодексу України з повнотекстовим офлайн пошуком. Завжди повна версія законодавства України на вашому пристрої без необхідності підключення до мережі інтернет.&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс&lt;/li&gt;
+&lt;li&gt;Актуальна та повна версія кодексу, автоматичне оновлення&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет&lt;/li&gt;
+&lt;li&gt;Потужний повнотекстовий офлайн пошук за змістом&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Мати закони України на своєму пристрої це завжди зручно, особливо якщо ваша професійна діяльність пов&amp;rsquo;язана з юриспруденцією. Додаток також буде актуальним для студентів або людей які просто цікавляться законодавством України.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -106,13 +147,32 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/criminal-procedure-code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/apple-store/id1069627724?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/cpcu_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/cpcu/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Актуальна версія Кримінального Процесуального Кодексу України з повнотекстовим офлайн пошуком. Завжди повна версія законодавства України на вашому пристрої без необхідності підключення до мережі інтернет.&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс&lt;/li&gt;
+&lt;li&gt;Завжди актуальна редакція, автоматичне оновлення.&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет&lt;/li&gt;
+&lt;li&gt;Потужний повнотекстовий офлайн пошук за змістом&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Мати закони України на своєму пристрої це завжди зручно, особливо якщо ваша професійна діяльність пов&amp;rsquo;язана з юриспруденцією. Додаток також буде актуальним для студентів або людей які просто цікавляться законодавством України.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -122,13 +182,37 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/tax-code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/apple-store/id1071669444?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/taxcode_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/taxcode/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Податковий Кодекс України з контекстним офлайн пошуком допоможе розібратися у найскладніших податкових питаннях за лічені секунди!&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Потужний контекстний офлайн пошук спеціально адаптований для мобільних пристроїв.&lt;/li&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс.&lt;/li&gt;
+&lt;li&gt;Адаптовані під мобільний екран, зручні, таблиці!&lt;/li&gt;
+&lt;li&gt;Завжди актуальна та повна версія кодексу, автоматичне оновлення.&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет!&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв.&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Забудь про величезний та незручний паперовий кодекс який треба покупати кожен раз як змінюється законодавство.&lt;/p&gt;
+
+&lt;p&gt;Отримай відповіді на будь-які податкові питання будь-де за лічені секунди!&lt;/p&gt;
+
+&lt;p&gt;Цей додаток є незамінним помічником для професіоналів, підприємців, студентів або людей які просто цікавляться податковим законодавством України.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -138,13 +222,34 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/civil-code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/us/app/apple-store/id1074283213?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/civilcode_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/civilcode/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Актуальна версія Цивільного Кодексу України з повнотекстовим офлайн пошуком.&lt;/p&gt;
+
+&lt;p&gt;Миттєвий пошук дозволяє користуватися додатком прямо у залі засідання або будь де: тепер можна забути про паперові книжки.&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс, зручна навігація&lt;/li&gt;
+&lt;li&gt;Актуальна версія кодексу, автоматичне оновлення&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет&lt;/li&gt;
+&lt;li&gt;Потужний повнотекстовий офлайн пошук по всьому кодексу&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Мати закони України у своєму пристрої це завжди зручно.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -154,13 +259,34 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/civil-procedure-code/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/app/apple-store/id1118046349?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/civilprocedure_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/civilprocedurecode/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Актуальна версія Цивільного Процесуального Кодексу України з повнотекстовим офлайн пошуком.&lt;/p&gt;
+
+&lt;p&gt;Миттєвий пошук дозволяє користуватися додатком прямо у залі засідання або будь де: тепер можна забути про паперові книжки.&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс, зручна навігація&lt;/li&gt;
+&lt;li&gt;Актуальна та повна версія кодексу, автоматичне оновлення&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет&lt;/li&gt;
+&lt;li&gt;Потужний повнотекстовий офлайн пошук по всьому кодексу&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Мати закони України у своєму пристрої це завжди зручно.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -170,13 +296,31 @@ We may process your data outside the country where you live in (for example if y
       
       <guid>https://apps.sinko.me/ru/apps/constitution/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/app/apple-store/id1115655846?pt=118068070&amp;ct=apps.sinko.me&amp;mt=8&#34;&gt;
-&lt;img src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
+&lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Завантажити з AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&#34;https://apps.sinko.me/images/constitution_logo_750.png&#34; title=&#34;test images in summary&#34; width=&#34;300&#34; height=&#34;300&#34;&gt;&lt;/p&gt;
+&lt;div class=&#34;row&#34;&gt;
+     &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
+        &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/constitution/5.5_Device_1.jpg&#34; /&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
 
-&lt;p&gt;Миттєвий пошук, швидка навігація, зручний інтерфейс.&lt;/p&gt;</description>
+&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Конституція - основний закон України.&lt;/p&gt;
+
+&lt;p&gt;Цей додаток буде корисним для всіх громадян України.&lt;/p&gt;
+
+&lt;p&gt;Переваги саме цього додатку:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;Швидкий та мінімалістичний інтерфейс, зручне розбиття на розділи та статті&lt;/li&gt;
+&lt;li&gt;Не потребує підключення до мережі інтернет&lt;/li&gt;
+&lt;li&gt;Потужний повнотекстовий офлайн пошук за всім законом або окремими розділами&lt;/li&gt;
+&lt;li&gt;Це універсальний додаток: одна версія для всіх ваших пристроїв&lt;/li&gt;
+&lt;li&gt;Зміна розміру тексту: виберіть комфортний для вас розмір шрифтів в налаштуваннях системи&lt;/li&gt;
+&lt;/ol&gt;</description>
     </item>
     
   </channel>
