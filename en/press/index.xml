@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Press-rsses on Sinko Apps</title>
+    <link>https://apps.sinko.me/en/press/index.xml</link>
+    <description>Recent content in Press-rsses on Sinko Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy;2016 Dmytrii Sinko</copyright>
+    <lastBuildDate>Mon, 28 Nov 2016 13:20:42 +0200</lastBuildDate>
+    <atom:link href="https://apps.sinko.me/en/press/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Press</title>
+      <link>https://apps.sinko.me/en/press/</link>
+      <pubDate>Mon, 28 Nov 2016 13:20:42 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/en/press/</guid>
+      <description>
+
+&lt;h4 id=&#34;solo-time-tracking-invoicing&#34;&gt;Solo - Time Tracking &amp;amp; Invoicing&lt;/h4&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/6giA-LFZt5g&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;h4 id=&#34;factsheet&#34;&gt;Factsheet&lt;/h4&gt;
+
+&lt;p&gt;&lt;strong&gt;Developer:&lt;/strong&gt;
+&lt;br/&gt;
+Dmytrii Sinko&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Location:&lt;/strong&gt;
+&lt;br/&gt;
+Ukraine&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Website:&lt;/strong&gt;
+&lt;br/&gt;
+&lt;a href=&#34;https://apps.sinko.me&#34;&gt;apps.sinko.me&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Press / Business contact:&lt;/strong&gt;
+&lt;br/&gt;
+apps.dmytrii.sinko@gmail.com&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Social:&lt;/strong&gt;
+&lt;br/&gt;
+&lt;a href=&#34;https://telegram.me/solodeveloper&#34;&gt;Telegram&lt;/a&gt;
+&lt;br/&gt;
+&lt;a href=&#34;https://www.facebook.com/sinkoapps/&#34;&gt;Facebook&lt;/a&gt;
+&lt;br/&gt;
+&lt;a href=&#34;https://twitter.com/sinkoapps&#34;&gt;Twitter&lt;/a&gt;
+&lt;br/&gt;
+&lt;a href=&#34;https://www.youtube.com/channel/UCfYeemlaKMvoTHNvKxLCCIw&#34;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Presskit:&lt;/strong&gt;
+&lt;br/&gt;
+&lt;a href=&#34;https://apps.sinko.me/files/solo-presskit-en.zip&#34;&gt;Download&lt;/a&gt; (short description, app icon and screenshots)&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
