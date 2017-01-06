@@ -22,15 +22,21 @@
 &lt;!-- &lt;/a&gt; --&gt;
 &lt;/p&gt;
 
-&lt;div class=&#34;row&#34;&gt;
+&lt;p&gt;&lt;div class=&#34;row&#34;&gt;
      &lt;div class=&#34;col-md-8 col-md-offset-2&#34;&gt;
         &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/taxcalculator/5.5_Device.jpg&#34; /&gt;
     &lt;/div&gt;
 &lt;/div&gt;
-
-&lt;p&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;Дійзнайся скільки ти винен державі з 2017 р. Сплануй свої податки та прийми оптимальне рішення щодо системи оподаткування! Складай декларації правильно.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/U6GogblcsSM&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
+
+&lt;br/&gt;&lt;/p&gt;
 
 &lt;p&gt;Податковий калькулятор дозволяє миттєво розрахувати податки для ФОП та передбачити вплив змін в законодавстві на ваш гаманець.&lt;/p&gt;
 
