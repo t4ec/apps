@@ -1,0 +1,24 @@
+{
+  "apps": [
+    {
+        "name": "Податковий калькулятор 2017",
+        "image_url": "https://apps.sinko.me/images/TaxCalculator_1024.png",
+        "download_url": "https://itunes.apple.com/ru/app/podatkovij-kal-kulator-2017./id1191100346",
+    },
+    {
+        "name": "Solo - Запис Часу та Виставлення Рахунків",
+        "image_url": "https://apps.sinko.me/images/solo_750.png",
+        "download_url": "https://itunes.apple.com/ru/app/solo-time-tracking-invoicing/id1169529109",
+    },
+    {
+        "name": "Конституція",
+        "image_url": "https://apps.sinko.me/images/constitution_logo_750.png",
+        "download_url": "https://itunes.apple.com/app/apple-store/id1115655846",
+    },
+    {
+        "name": "Кримінальний Процесуальний Кодекс України",
+        "image_url": "https://apps.sinko.me/images/cpcu_logo_750.png",
+        "download_url": "https://itunes.apple.com/us/app/apple-store/id1069627724",
+    },
+  ],
+}
