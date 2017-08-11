@@ -153,14 +153,7 @@ We may process your data outside the country where you live in (for example if y
       <pubDate>Thu, 10 Aug 2017 11:00:00 +0000</pubDate>
       
       <guid>https://apps.sinko.me/uk/apps/mytaxesbot/</guid>
-      <description>&lt;p&gt;&lt;div class=&#34;text-center&#34;&gt;
-  &lt;div class=&#34;fb-messengermessageus&#34;
-    messenger_app_id=&#34;123778871572879&#34;
-    page_id=&#34;1907429079518281&#34;
-    color=&#34;blue&#34;
-    size=&#34;large&#34; &gt;
-  &lt;/div&gt;
-&lt;/div&gt;
+      <description>&lt;p&gt;&lt;h5&gt;&lt;a href=&#34;http://m.me/mytaxesbot&#34;&gt;Спробувати&lt;/a&gt;&lt;/h5&gt;
 &lt;/p&gt;
 
 &lt;p&gt;
@@ -174,6 +167,8 @@ We may process your data outside the country where you live in (for example if y
 &lt;p&gt;Спочатку бот спитає про вашу систему оподаткування, після цього ви вже зможете дізнаватися про наступні події: здачу звітності або сплату податків, у будь-який час.&lt;/p&gt;
 
 &lt;p&gt;Додатково можна налаштувати автоматичні повідомлення і бот нагадає вам про наступні події заздалегідь.&lt;/p&gt;
+
+&lt;p&gt;Більше не треба шукати складні &amp;ldquo;податкові календарі&amp;rdquo;, розбиратися які події стосуються вас а які ні. Податковий бот зробить це за вас і нагадає про здачу звітності або сплату податків завчасно.&lt;/p&gt;
 
 &lt;p&gt;&lt;br/&gt;&lt;/p&gt;</description>
     </item>
