@@ -2,13 +2,6 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	
 	<sitemap>
-	   	<loc>https://apps.sinko.me/en/sitemap.xml</loc>
-		
-	   	<lastmod>2016-11-28T13:20:42+02:00</lastmod>
-		
-	</sitemap>
-	
-	<sitemap>
 	   	<loc>https://apps.sinko.me/ru/sitemap.xml</loc>
 		
 	   	<lastmod>2016-11-28T13:20:42+02:00</lastmod>
@@ -17,6 +10,13 @@
 	
 	<sitemap>
 	   	<loc>https://apps.sinko.me/uk/sitemap.xml</loc>
+		
+	   	<lastmod>2016-11-28T13:20:42+02:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>https://apps.sinko.me/en/sitemap.xml</loc>
 		
 	   	<lastmod>2016-11-28T13:20:42+02:00</lastmod>
 		
