@@ -215,7 +215,7 @@ For further information, inquiries or assistance you may contact Dmytrii Sinko. 
       <pubDate>Wed, 14 Mar 2018 11:00:00 +0200</pubDate>
       
       <guid>https://apps.sinko.me/ru/apps/codes/</guid>
-      <description>&lt;p&gt;&lt;a&gt;
+      <description>&lt;p&gt;&lt;a href=&#34;https://itunes.apple.com/ua/app/нові-кодекси-україни/id1352345440?l=uk&amp;mt=8&#34;&gt;
 &lt;img class=&#34;img-responsive&#34; src=&#34;https://apps.sinko.me/images/download_on_appstore_ru.svg&#34; title=&#34;Скоро у AppStore&#34;&gt;
 &lt;/a&gt;
 &lt;/p&gt;
@@ -226,9 +226,16 @@ For further information, inquiries or assistance you may contact Dmytrii Sinko. 
     &lt;/div&gt;
 &lt;/div&gt; --&gt;
 
-&lt;!-- &lt;br/&gt; --&gt;
+&lt;p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; padding-top: 30px; height: 0; overflow: hidden;&#34;&gt;
+  &lt;iframe src=&#34;//www.youtube.com/embed/1oaxgphyH6M&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%;&#34; allowfullscreen frameborder=&#34;0&#34;&gt;&lt;/iframe&gt;
+ &lt;/div&gt;
 
-&lt;p&gt;Можливості які відкриває застосунок:&lt;/p&gt;
+&lt;br/&gt;&lt;/p&gt;
+
+&lt;p&gt;Перша професійна заміна паперовим кодексам України. Оновлювані кодекси та Конституція України з миттєвим повнотекстовим пошуком який не потребує підключення до інтернет.&lt;/p&gt;
+
+&lt;p&gt;Можливості:&lt;/p&gt;
 
 &lt;ol&gt;
 &lt;li&gt;Доступ до останньої актуальної редакції кодексів, автоматичне оновлення редакцій&lt;/li&gt;
