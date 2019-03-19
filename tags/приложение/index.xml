@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Приложение on Sinko Apps</title>
+    <link>https://apps.sinko.me/tags/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+    <description>Recent content in Приложение on Sinko Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 21:17:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://apps.sinko.me/tags/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Нові Кодекси України</title>
+      <link>https://apps.sinko.me/apps/codes/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/apps/codes/</guid>
+      <description>Перша професійна заміна паперовим кодексам України. Оновлювані кодекси та Конституція України з миттєвим повнотекстовим пошуком який не потребує підключення до інтернет.</description>
+    </item>
+    
+    <item>
+      <title>Как работают платные подписки в AppStore. Часто задаваемые вопросы и ответы</title>
+      <link>https://apps.sinko.me/blog/subscription-faq/</link>
+      <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/blog/subscription-faq/</guid>
+      <description>Мы получили много вопросов по поводу платных подписок AppStore и решили собрать всю информацию в одном месте.</description>
+    </item>
+    
+  </channel>
+</rss>

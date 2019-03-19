@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Series on Sinko Apps</title>
+    <link>https://apps.sinko.me/series/</link>
+    <description>Recent content in Series on Sinko Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
+    <lastBuildDate>Tue, 19 Mar 2019 20:59:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://apps.sinko.me/series/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Appstore</title>
+      <link>https://apps.sinko.me/series/appstore/</link>
+      <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/appstore/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facebook</title>
+      <link>https://apps.sinko.me/series/facebook/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>https://apps.sinko.me/series/ios/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Інвойс</title>
+      <link>https://apps.sinko.me/series/%D1%96%D0%BD%D0%B2%D0%BE%D0%B9%D1%81/</link>
+      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/%D1%96%D0%BD%D0%B2%D0%BE%D0%B9%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Додатки</title>
+      <link>https://apps.sinko.me/series/%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Кодекси</title>
+      <link>https://apps.sinko.me/series/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Податки</title>
+      <link>https://apps.sinko.me/series/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Час</title>
+      <link>https://apps.sinko.me/series/%D1%87%D0%B0%D1%81/</link>
+      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/%D1%87%D0%B0%D1%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Чат Боти</title>
+      <link>https://apps.sinko.me/series/%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/series/%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

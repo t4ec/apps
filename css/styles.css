@@ -1,0 +1,94 @@
+div.heading {
+    margin-top: 1rem;
+    margin-bottom: -1.5rem;
+    text-align: center;
+}
+
+img.preview {
+    border-radius: 0.5rem;
+}
+
+div.preview-image {
+    margin-bottom: -3rem;
+}
+
+div.content-button {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.card {
+    border-radius: 0.2rem;
+    border: 0;
+    box-shadow: 0 .25rem 1rem rgba(48, 55, 66, .15);
+    height: 100%;
+    overflow: hidden;
+}
+
+.column {
+    margin-top: 0.4rem;
+    margin-bottom: 0.4rem;
+}
+
+.mb-3 {
+    padding-bottom: 0.6rem;
+}
+
+a.social-icon {
+    /* color: #3b4351; */
+    color: whitesmoke;
+}
+
+a.card-more-button {
+    margin-top: 2.5rem;
+    /* position: absolute; */
+    /* top: 50%; */
+    /* left: 50%; */
+    /* align-content: center; */
+    /* transform: translate(-50%, -50%); */
+}
+
+a.card-more-blog-button {
+    margin-top: 2.5rem;
+}
+
+a.lvivcom {
+    color: #282828;
+    text-decoration: none;
+}
+
+div.card-more-button {
+    min-height: 10rem;
+    position: relative;
+}
+
+div.try-app {
+    margin-top: 2rem;
+}
+
+div.media-logo-container {
+    position: relative;
+    min-height: 100px;
+}
+
+div.media-logo {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+img.media-logo {
+    max-height: 100px;
+    min-width: 100px;
+    max-width: 300px;
+}
+
+img.content {
+    max-height: 600px;
+}
+
+div.copyright {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+}

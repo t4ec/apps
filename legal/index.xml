@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Legals on Sinko Apps</title>
+    <link>https://apps.sinko.me/legal/</link>
+    <description>Recent content in Legals on Sinko Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
+    <lastBuildDate>Thu, 15 Mar 2018 13:20:42 +0200</lastBuildDate>
+    
+	<atom:link href="https://apps.sinko.me/legal/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Terms of Use</title>
+      <link>https://apps.sinko.me/legal/terms/</link>
+      <pubDate>Thu, 15 Mar 2018 13:20:42 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/legal/terms/</guid>
+      <description>Valid from 15/03/2018
+Thank you for using our products and services (the “Service/s”).</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy</title>
+      <link>https://apps.sinko.me/legal/codes-privacy/</link>
+      <pubDate>Mon, 28 Nov 2016 13:20:42 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/legal/codes-privacy/</guid>
+      <description>In this privacy policy we describe what kind of data we may collect of you in connection with your use of our applications, websites and related services and how we may use such data.</description>
+    </item>
+    
+  </channel>
+</rss>

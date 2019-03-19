@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iphone on Sinko Apps</title>
+    <link>https://apps.sinko.me/tags/iphone/</link>
+    <description>Recent content in Iphone on Sinko Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
+    <lastBuildDate>Fri, 08 Mar 2019 21:17:18 +0200</lastBuildDate>
+    
+	<atom:link href="https://apps.sinko.me/tags/iphone/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Нові Кодекси України</title>
+      <link>https://apps.sinko.me/apps/codes/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/apps/codes/</guid>
+      <description>Перша професійна заміна паперовим кодексам України. Оновлювані кодекси та Конституція України з миттєвим повнотекстовим пошуком який не потребує підключення до інтернет.</description>
+    </item>
+    
+    <item>
+      <title>Податковий калькулятор</title>
+      <link>https://apps.sinko.me/apps/tax_calculator/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/apps/tax_calculator/</guid>
+      <description>Дійзнайтесь скільки ви винні державі з 2017 р. Сплануйте свої податки та прийміть оптимальне рішення щодо системи оподаткування!</description>
+    </item>
+    
+    <item>
+      <title>Solo - Запис Часу та Виставлення Рахунків</title>
+      <link>https://apps.sinko.me/apps/solo-time-tracker/</link>
+      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/apps/solo-time-tracker/</guid>
+      <description>Solo - це дуже простий додаток який дозволяє записувати робочий час та виставляти рахунки клієнтам відповідно до вартості години вашої роботи.</description>
+    </item>
+    
+  </channel>
+</rss>

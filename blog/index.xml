@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Блог on Sinko Apps</title>
+    <link>https://apps.sinko.me/blog/</link>
+    <description>Recent content in Блог on Sinko Apps</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>uk</language>
+    <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
+    <lastBuildDate>Tue, 19 Mar 2019 20:59:07 +0200</lastBuildDate>
+    
+	<atom:link href="https://apps.sinko.me/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Как работают платные подписки в AppStore. Часто задаваемые вопросы и ответы</title>
+      <link>https://apps.sinko.me/blog/subscription-faq/</link>
+      <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/blog/subscription-faq/</guid>
+      <description>Мы получили много вопросов по поводу платных подписок AppStore и решили собрать всю информацию в одном месте.</description>
+    </item>
+    
+  </channel>
+</rss>
