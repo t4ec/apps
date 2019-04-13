@@ -71,13 +71,15 @@
 <script type="application/javascript">
 var doNotTrack = false;
 if (!doNotTrack) {
-	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 	ga('create', 'UA-75276045-1', 'auto');
 	
 	ga('send', 'pageview');
 }
 </script>
-<script async src='https://www.google-analytics.com/analytics.js'></script>
 
 
 <script>
@@ -215,8 +217,12 @@ if (!doNotTrack) {
 <p>Например: в приложении “Нові Кодекси України” мы предлагаем 7 дней бесплатной премиум подписки.</p>
 
 
+
 <center>
-    <img class="img-responsive content" src="https://apps.sinko.me/blog/subscription-faq/subscription_screenshot.png">
+    <figure class="figure">
+        <img class="img-responsive content" src="https://apps.sinko.me/blog/subscription-faq/subscription_screenshot.png">
+        <figcaption class="figure-caption text-center"></figcaption>
+    </figure>
 </center>
 
 <p>Чтобы начать пробный период вам нужно выбрать удобный вариант подписки. Предположим что вы выбрали 2.99 USD/місяць. Нажмите на эту кнопку. Появится системный запрос на подтверждение от AppStore. В этом запросе будет указан выбранный вариант подписки и указана дата с которой начнется списание средств. Дата начала списания = сегодняшняя дата + 7 дней.</p>
