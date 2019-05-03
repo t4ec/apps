@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>uk</language>
     <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 12:29:19 +0300</lastBuildDate>
+    <lastBuildDate>Fri, 03 May 2019 19:30:00 +0300</lastBuildDate>
     
 	<atom:link href="https://apps.sinko.me/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Як відкриті дані допомагають бізнесу та суспільству?</title>
+      <link>https://apps.sinko.me/blog/what-is-open-data/</link>
+      <pubDate>Fri, 03 May 2019 19:30:00 +0300</pubDate>
+      
+      <guid>https://apps.sinko.me/blog/what-is-open-data/</guid>
+      <description>Інколи нас питають де саме ми беремо дані та чи можна їм довіряти.</description>
+    </item>
     
     <item>
       <title>Весенние обновления &#34;Нові Кодекси України&#34;</title>
