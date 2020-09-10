@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Sinko Apps</title>
@@ -7,58 +7,67 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>uk</language>
     <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 12:29:19 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 13:30:00 +0300</lastBuildDate>
     
 	<atom:link href="https://apps.sinko.me/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Appstore</title>
-      <link>https://apps.sinko.me/tags/appstore/</link>
-      <pubDate>Sat, 13 Apr 2019 12:29:19 +0300</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/appstore/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Facebook</title>
-      <link>https://apps.sinko.me/tags/facebook/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/facebook/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Faq</title>
-      <link>https://apps.sinko.me/tags/faq/</link>
-      <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/faq/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ios</title>
+      <title>iOS</title>
       <link>https://apps.sinko.me/tags/ios/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
       
       <guid>https://apps.sinko.me/tags/ios/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Iphone</title>
-      <link>https://apps.sinko.me/tags/iphone/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      <title>zakon.cc</title>
+      <link>https://apps.sinko.me/tags/zakon.cc/</link>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
       
-      <guid>https://apps.sinko.me/tags/iphone/</guid>
+      <guid>https://apps.sinko.me/tags/zakon.cc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Opendata</title>
+      <title>Нові Кодекси України</title>
+      <link>https://apps.sinko.me/tags/%D0%BD%D0%BE%D0%B2%D1%96-%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/</link>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BD%D0%BE%D0%B2%D1%96-%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>обновление</title>
+      <link>https://apps.sinko.me/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>оновлення</title>
+      <link>https://apps.sinko.me/tags/%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F/</link>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BE%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%BD%D1%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>судова практика</title>
+      <link>https://apps.sinko.me/tags/%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/</link>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D1%81%D1%83%D0%B4%D0%BE%D0%B2%D0%B0-%D0%BF%D1%80%D0%B0%D0%BA%D1%82%D0%B8%D0%BA%D0%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>opendata</title>
       <link>https://apps.sinko.me/tags/opendata/</link>
       <pubDate>Fri, 03 May 2019 19:30:00 +0300</pubDate>
       
@@ -67,16 +76,7 @@
     </item>
     
     <item>
-      <title>Інвойс</title>
-      <link>https://apps.sinko.me/tags/%D1%96%D0%BD%D0%B2%D0%BE%D0%B9%D1%81/</link>
-      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D1%96%D0%BD%D0%B2%D0%BE%D0%B9%D1%81/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Відкриті Дані</title>
+      <title>відкриті дані</title>
       <link>https://apps.sinko.me/tags/%D0%B2%D1%96%D0%B4%D0%BA%D1%80%D0%B8%D1%82%D1%96-%D0%B4%D0%B0%D0%BD%D1%96/</link>
       <pubDate>Fri, 03 May 2019 19:30:00 +0300</pubDate>
       
@@ -85,88 +85,34 @@
     </item>
     
     <item>
-      <title>Додаток</title>
-      <link>https://apps.sinko.me/tags/%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      <title>приложение</title>
+      <link>https://apps.sinko.me/tags/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <pubDate>Fri, 03 May 2019 19:30:00 +0300</pubDate>
       
-      <guid>https://apps.sinko.me/tags/%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA/</guid>
+      <guid>https://apps.sinko.me/tags/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Закони</title>
-      <link>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Запис Часу</title>
-      <link>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81-%D1%87%D0%B0%D1%81%D1%83/</link>
-      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81-%D1%87%D0%B0%D1%81%D1%83/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Звітність</title>
-      <link>https://apps.sinko.me/tags/%D0%B7%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%B7%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Календар</title>
-      <link>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Калькулятор</title>
-      <link>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Кодекси</title>
-      <link>https://apps.sinko.me/tags/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Нові Кодекси України</title>
-      <link>https://apps.sinko.me/tags/%D0%BD%D0%BE%D0%B2%D1%96-%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/</link>
+      <title>AppStore</title>
+      <link>https://apps.sinko.me/tags/appstore/</link>
       <pubDate>Sat, 13 Apr 2019 12:29:19 +0300</pubDate>
       
-      <guid>https://apps.sinko.me/tags/%D0%BD%D0%BE%D0%B2%D1%96-%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8-%D1%83%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8/</guid>
+      <guid>https://apps.sinko.me/tags/appstore/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Обновление</title>
-      <link>https://apps.sinko.me/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
-      <pubDate>Sat, 13 Apr 2019 12:29:19 +0300</pubDate>
+      <title>faq</title>
+      <link>https://apps.sinko.me/tags/faq/</link>
+      <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
       
-      <guid>https://apps.sinko.me/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>https://apps.sinko.me/tags/faq/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Передплата</title>
+      <title>передплата</title>
       <link>https://apps.sinko.me/tags/%D0%BF%D0%B5%D1%80%D0%B5%D0%B4%D0%BF%D0%BB%D0%B0%D1%82%D0%B0/</link>
       <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
       
@@ -175,16 +121,7 @@
     </item>
     
     <item>
-      <title>Податки</title>
-      <link>https://apps.sinko.me/tags/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</link>
-      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
-      
-      <guid>https://apps.sinko.me/tags/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Подписки</title>
+      <title>подписки</title>
       <link>https://apps.sinko.me/tags/%D0%BF%D0%BE%D0%B4%D0%BF%D0%B8%D1%81%D0%BA%D0%B8/</link>
       <pubDate>Tue, 19 Mar 2019 20:59:07 +0200</pubDate>
       
@@ -193,11 +130,20 @@
     </item>
     
     <item>
-      <title>Приложение</title>
-      <link>https://apps.sinko.me/tags/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/</link>
+      <title>facebook</title>
+      <link>https://apps.sinko.me/tags/facebook/</link>
       <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
       
-      <guid>https://apps.sinko.me/tags/%D0%BF%D1%80%D0%B8%D0%BB%D0%BE%D0%B6%D0%B5%D0%BD%D0%B8%D0%B5/</guid>
+      <guid>https://apps.sinko.me/tags/facebook/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iPhone</title>
+      <link>https://apps.sinko.me/tags/iphone/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/iphone/</guid>
       <description></description>
     </item>
     
@@ -211,11 +157,92 @@
     </item>
     
     <item>
-      <title>Чат Бот</title>
+      <title>додаток</title>
+      <link>https://apps.sinko.me/tags/%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BE%D0%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>закони</title>
+      <link>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BA%D0%BE%D0%BD%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>звітність</title>
+      <link>https://apps.sinko.me/tags/%D0%B7%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%B7%D0%B2%D1%96%D1%82%D0%BD%D1%96%D1%81%D1%82%D1%8C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>календар</title>
+      <link>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D0%B5%D0%BD%D0%B4%D0%B0%D1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>калькулятор</title>
+      <link>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BA%D0%B0%D0%BB%D1%8C%D0%BA%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>кодекси</title>
+      <link>https://apps.sinko.me/tags/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BA%D0%BE%D0%B4%D0%B5%D0%BA%D1%81%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>податки</title>
+      <link>https://apps.sinko.me/tags/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</link>
+      <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%BF%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>чат-бот</title>
       <link>https://apps.sinko.me/tags/%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82/</link>
       <pubDate>Fri, 08 Mar 2019 21:17:18 +0200</pubDate>
       
       <guid>https://apps.sinko.me/tags/%D1%87%D0%B0%D1%82-%D0%B1%D0%BE%D1%82/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>запис часу</title>
+      <link>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81-%D1%87%D0%B0%D1%81%D1%83/</link>
+      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D0%B7%D0%B0%D0%BF%D0%B8%D1%81-%D1%87%D0%B0%D1%81%D1%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>інвойс</title>
+      <link>https://apps.sinko.me/tags/%D1%96%D0%BD%D0%B2%D0%BE%D0%B9%D1%81/</link>
+      <pubDate>Sat, 26 Nov 2016 22:13:30 +0200</pubDate>
+      
+      <guid>https://apps.sinko.me/tags/%D1%96%D0%BD%D0%B2%D0%BE%D0%B9%D1%81/</guid>
       <description></description>
     </item>
     

@@ -1,16 +1,25 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Обновление on Sinko Apps</title>
+    <title>обновление on Sinko Apps</title>
     <link>https://apps.sinko.me/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/</link>
-    <description>Recent content in Обновление on Sinko Apps</description>
+    <description>Recent content in обновление on Sinko Apps</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>uk</language>
     <copyright>&amp;copy;2016 Дмитрій Сінько</copyright>
-    <lastBuildDate>Sat, 13 Apr 2019 12:29:19 +0300</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 13:30:00 +0300</lastBuildDate>
     
 	<atom:link href="https://apps.sinko.me/tags/%D0%BE%D0%B1%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Оновлення: нові фільтри пошуку судової практики та Виборчий кодекс України на iOS.</title>
+      <link>https://apps.sinko.me/blog/update-09-2020/</link>
+      <pubDate>Thu, 10 Sep 2020 13:30:00 +0300</pubDate>
+      
+      <guid>https://apps.sinko.me/blog/update-09-2020/</guid>
+      <description>Цього тижня ми оновили zakon.cc та додали нові можливості фільтрування судових рішень.</description>
+    </item>
     
     <item>
       <title>Весенние обновления &#34;Нові Кодекси України&#34;</title>
